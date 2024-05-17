@@ -42,7 +42,7 @@ Vikash Singh Bafila
 """
     
     # Display the letter
-    st.text_area("", value=letter_content, height=1100)
+    st.text_area("", value=letter_content, height=1500)
 
 if __name__ == "__main__":
     main()
