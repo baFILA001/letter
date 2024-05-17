@@ -12,29 +12,30 @@ def main():
                                                                                                                                                     Apna PG,Somnath Nagar
                                                                                                                                                     Pune.
 
-To Sejal Agarwal
+To xyz
 Pune
 
-Dear Sejal,
+Dear Mam,
 
-I am writing this letter to express my feelings that I have had for you since the first day I saw you in the office when Anand sir interviewed me, and after that, he brought me in to show the office.
+I am writing this letter to express my feelings that I have had for you since the first day I saw you when you where shifting your luggage into that flat which is in front of our pg.
 
-At that time, I first saw you there, and I don't know, but it just felt different, which I hadn't felt before in my life. So during these three months of my internship, there are many inner virtues and qualities of yours that I observed, which are unique and I have never seen those before. So those are:
+At that time, I first saw you there, and I don't know, but it just felt different, which I hadn't felt before in my life. So during these months, there are many inner virtues and qualities of yours that I observed, which are unique and I have never seen those before. So those are:
 
-1. Intelligence: In my school and during my engineering studies, I observed that many girls were not proficient in practical tasks but excelled in theoretical concepts. However, in your case, I noticed that you are skilled in both practical work and theory, which is surprising and unique.
+1. Integrity: I admire your integrity, as you stay true to yourself. I have observed that you do what you feel is right and what you want, without feeling ashamed of others' opinions.
 
-2. Generosity: During the internship and over the previous two weeks of project creation, I noticed that you were compassionate about helping others, and you were kind to them.
+2. Independence: As what I've observed, you navigate through life with a remarkable sense of independence.Your independence isn't just about doing things on your own; it's about having the courage to follow your heart and the resilience to stand tall amidst uncertainties. 
 
-3. Humility: And the fact that you don't boast about your achievements is something I greatly admire, even if my batchmates may not see it the same way.
+3. Serene: I thing you have a serene demeanor and the calm and tranquil presence you exude in any situation is remarkable. Your ability to remain composed and peaceful, even amidst chaos, is truly remarkable and something I deeply admire about you.
 
-4. Forgiveness: During the internship, some of our batchmates used to mock you during online lectures, which I think you knew about, but despite that, you were kind to them and approached them to offer help.
+4. Radiant Personality and Beauty: You are beautiful, but from our second floor, I can only see your hair, which is even more stunning.
 
 And apart from the above-mentioned things that I have observed, there are many more aspects of your personality that I admire, but listing them all would make this letter too long.
 
-So if you are in a relationship with someone, then sorry from my side as it is inappropriate, and I apologize for any inconvenience caused by my sharing, but I feel it's important to express. If I am not selected during our project review next Monday, I will return home with a clear mind and without any burden.
+So if you are in a relationship with someone, then sorry from my side as it is inappropriate, and I apologize for any inconvenience caused by my sharing, but I feel it's important to express. Because On Monday, I will be assigned to my project group, and I wanted to express my feelings to you so that I can start my project work with a clear mind and without any burden.
 
 As it was my first time doing this type of thing, which I haven't done before because I haven't felt anything like this for anyone else before, so please forgive me.
 
+I'm sorry for not mentioning your name, as I don't know it or much about you. However, I'm interested in learning more about you. If you're comfortable, feel free to communicate with me via email at vikashbafila321@gmail.com. If you find my approach inappropriate, I apologize and assure you that I won't do anything similar in the future.
 
 Best regards,
 Vikash Singh Bafila
