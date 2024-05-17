@@ -6,11 +6,11 @@ def main():
     
     # Define the letter content
     letter_content = """
-                                                                                                                                                From 
-                                                                                                                                                Vikash Singh Bafila
-                                                                                                                                                Atgeir Intern,Batch-07
-                                                                                                                                                Apna PG,Somnath Nagar
-                                                                                                                                                Pune.
+                                                                                                                                            From 
+                                                                                                                                            Vikash Singh Bafila
+                                                                                                                                            Atgeir Intern,Batch-07
+                                                                                                                                            Apna PG,Somnath Nagar
+                                                                                                                                            Pune.
 
 To xyz
 Pune
